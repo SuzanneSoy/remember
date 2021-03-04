@@ -3,7 +3,7 @@
                     racket/base]]
 
 @title{Remember: storage for macros which is persistant across compilations}
-@author{Suzanne Soy}
+@author[@author+email["Suzanne Soy" "racket@suzanne.soy"]]
 
 @defmodule[remember]
 
