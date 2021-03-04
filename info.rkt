@@ -19,4 +19,4 @@
                                 " Writes values to a file, so that they will"
 				" be remembered during the next compilation."))
 (define version "0.9")
-(define pkg-authors '(|Georges Dupéron|))
+(define pkg-authors '(|Suzanne Soy|))

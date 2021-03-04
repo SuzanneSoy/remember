@@ -3,7 +3,7 @@
                     racket/base]]
 
 @title{Remember: storage for macros which is persistant across compilations}
-@author{Georges Dupéron}
+@author{Suzanne Soy}
 
 @defmodule[remember]
 
