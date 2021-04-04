@@ -1,5 +1,5 @@
-[![Build Status,](https://img.shields.io/travis/jsmaniac/remember/master.svg)](https://travis-ci.org/jsmaniac/remember)
-[![Coverage Status,](https://img.shields.io/codecov/c/github/jsmaniac//master.svg)](https://codecov.io/gh/jsmaniac/remember)
+[![Build Status,](https://img.shields.io/travis/jsmaniac/remember/main.svg)](https://travis-ci.org/jsmaniac/remember)
+[![Coverage Status,](https://img.shields.io/codecov/c/github/jsmaniac/remember/main.svg)](https://codecov.io/gh/jsmaniac/remember)
 [![Build Stats,](https://img.shields.io/badge/build-stats-blue.svg)](http://jsmaniac.github.io/travis-stats/#jsmaniac/remember)
 [![Online Documentation,](https://img.shields.io/badge/docs-online-blue.svg)](http://docs.racket-lang.org/remember/)
 [![Maintained as of 2017,](https://img.shields.io/maintenance/yes/2017.svg)](https://github.com/jsmaniac/remember/issues)
